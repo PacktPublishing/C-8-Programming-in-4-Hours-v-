@@ -1,0 +1,7 @@
+C:\Users\nitin\Documents\Pack C# Trainings\Video 3.1\EnumsDemo\EnumsDemoApp\bin\Debug\EnumsDemoApp.exe.config
+C:\Users\nitin\Documents\Pack C# Trainings\Video 3.1\EnumsDemo\EnumsDemoApp\bin\Debug\EnumsDemoApp.exe
+C:\Users\nitin\Documents\Pack C# Trainings\Video 3.1\EnumsDemo\EnumsDemoApp\bin\Debug\EnumsDemoApp.pdb
+C:\Users\nitin\Documents\Pack C# Trainings\Video 3.1\EnumsDemo\EnumsDemoApp\obj\Debug\EnumsDemoApp.csprojAssemblyReference.cache
+C:\Users\nitin\Documents\Pack C# Trainings\Video 3.1\EnumsDemo\EnumsDemoApp\obj\Debug\EnumsDemoApp.csproj.CoreCompileInputs.cache
+C:\Users\nitin\Documents\Pack C# Trainings\Video 3.1\EnumsDemo\EnumsDemoApp\obj\Debug\EnumsDemoApp.exe
+C:\Users\nitin\Documents\Pack C# Trainings\Video 3.1\EnumsDemo\EnumsDemoApp\obj\Debug\EnumsDemoApp.pdb

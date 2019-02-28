@@ -1,0 +1,6 @@
+C:\Users\nitin\Documents\Pack C# Trainings\Video 3.3\ExceptionHandling\ExceptionHandlingDemo\bin\Debug\ExceptionHandlingDemo.exe.config
+C:\Users\nitin\Documents\Pack C# Trainings\Video 3.3\ExceptionHandling\ExceptionHandlingDemo\bin\Debug\ExceptionHandlingDemo.exe
+C:\Users\nitin\Documents\Pack C# Trainings\Video 3.3\ExceptionHandling\ExceptionHandlingDemo\bin\Debug\ExceptionHandlingDemo.pdb
+C:\Users\nitin\Documents\Pack C# Trainings\Video 3.3\ExceptionHandling\ExceptionHandlingDemo\obj\Debug\ExceptionHandlingDemo.csproj.CoreCompileInputs.cache
+C:\Users\nitin\Documents\Pack C# Trainings\Video 3.3\ExceptionHandling\ExceptionHandlingDemo\obj\Debug\ExceptionHandlingDemo.exe
+C:\Users\nitin\Documents\Pack C# Trainings\Video 3.3\ExceptionHandling\ExceptionHandlingDemo\obj\Debug\ExceptionHandlingDemo.pdb

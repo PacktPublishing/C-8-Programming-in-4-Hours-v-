@@ -1,0 +1,6 @@
+C:\Users\nitin\Documents\Pack C# Trainings\Video 3.2\MethodsDemo\UsingParams\bin\Debug\UsingParams.exe.config
+C:\Users\nitin\Documents\Pack C# Trainings\Video 3.2\MethodsDemo\UsingParams\bin\Debug\UsingParams.exe
+C:\Users\nitin\Documents\Pack C# Trainings\Video 3.2\MethodsDemo\UsingParams\bin\Debug\UsingParams.pdb
+C:\Users\nitin\Documents\Pack C# Trainings\Video 3.2\MethodsDemo\UsingParams\obj\Debug\UsingParams.csproj.CoreCompileInputs.cache
+C:\Users\nitin\Documents\Pack C# Trainings\Video 3.2\MethodsDemo\UsingParams\obj\Debug\UsingParams.exe
+C:\Users\nitin\Documents\Pack C# Trainings\Video 3.2\MethodsDemo\UsingParams\obj\Debug\UsingParams.pdb

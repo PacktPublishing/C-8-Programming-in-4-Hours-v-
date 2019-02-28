@@ -1,0 +1,6 @@
+C:\Users\nitin\Documents\Pack C# Trainings\Video 3.2\MethodsDemo\MethodsDemo\bin\Debug\MethodsDemo.exe.config
+C:\Users\nitin\Documents\Pack C# Trainings\Video 3.2\MethodsDemo\MethodsDemo\bin\Debug\MethodsDemo.exe
+C:\Users\nitin\Documents\Pack C# Trainings\Video 3.2\MethodsDemo\MethodsDemo\bin\Debug\MethodsDemo.pdb
+C:\Users\nitin\Documents\Pack C# Trainings\Video 3.2\MethodsDemo\MethodsDemo\obj\Debug\MethodsDemo.csproj.CoreCompileInputs.cache
+C:\Users\nitin\Documents\Pack C# Trainings\Video 3.2\MethodsDemo\MethodsDemo\obj\Debug\MethodsDemo.exe
+C:\Users\nitin\Documents\Pack C# Trainings\Video 3.2\MethodsDemo\MethodsDemo\obj\Debug\MethodsDemo.pdb

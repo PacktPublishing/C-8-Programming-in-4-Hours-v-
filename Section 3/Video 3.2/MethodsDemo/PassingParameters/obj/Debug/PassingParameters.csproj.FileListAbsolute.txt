@@ -1,0 +1,7 @@
+C:\Users\nitin\Documents\Pack C# Trainings\Video 3.2\MethodsDemo\PassingParameters\obj\Debug\PassingParameters.csprojAssemblyReference.cache
+C:\Users\nitin\Documents\Pack C# Trainings\Video 3.2\MethodsDemo\PassingParameters\obj\Debug\PassingParameters.csproj.CoreCompileInputs.cache
+C:\Users\nitin\Documents\Pack C# Trainings\Video 3.2\MethodsDemo\PassingParameters\bin\Debug\PassingParameters.exe.config
+C:\Users\nitin\Documents\Pack C# Trainings\Video 3.2\MethodsDemo\PassingParameters\bin\Debug\PassingParameters.exe
+C:\Users\nitin\Documents\Pack C# Trainings\Video 3.2\MethodsDemo\PassingParameters\bin\Debug\PassingParameters.pdb
+C:\Users\nitin\Documents\Pack C# Trainings\Video 3.2\MethodsDemo\PassingParameters\obj\Debug\PassingParameters.exe
+C:\Users\nitin\Documents\Pack C# Trainings\Video 3.2\MethodsDemo\PassingParameters\obj\Debug\PassingParameters.pdb

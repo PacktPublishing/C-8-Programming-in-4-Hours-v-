@@ -1,0 +1,7 @@
+C:\Users\nitin\Documents\Pack C# Trainings\Video 3.3\DebuggingAndExceptionHandling\DebuggingAndExceptionHandling\bin\Debug\DebuggingAndExceptionHandling.exe.config
+C:\Users\nitin\Documents\Pack C# Trainings\Video 3.3\DebuggingAndExceptionHandling\DebuggingAndExceptionHandling\bin\Debug\DebuggingAndExceptionHandling.exe
+C:\Users\nitin\Documents\Pack C# Trainings\Video 3.3\DebuggingAndExceptionHandling\DebuggingAndExceptionHandling\bin\Debug\DebuggingAndExceptionHandling.pdb
+C:\Users\nitin\Documents\Pack C# Trainings\Video 3.3\DebuggingAndExceptionHandling\DebuggingAndExceptionHandling\obj\Debug\DebuggingAndExceptionHandling.csprojAssemblyReference.cache
+C:\Users\nitin\Documents\Pack C# Trainings\Video 3.3\DebuggingAndExceptionHandling\DebuggingAndExceptionHandling\obj\Debug\DebuggingAndExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\nitin\Documents\Pack C# Trainings\Video 3.3\DebuggingAndExceptionHandling\DebuggingAndExceptionHandling\obj\Debug\DebuggingAndExceptionHandling.exe
+C:\Users\nitin\Documents\Pack C# Trainings\Video 3.3\DebuggingAndExceptionHandling\DebuggingAndExceptionHandling\obj\Debug\DebuggingAndExceptionHandling.pdb
