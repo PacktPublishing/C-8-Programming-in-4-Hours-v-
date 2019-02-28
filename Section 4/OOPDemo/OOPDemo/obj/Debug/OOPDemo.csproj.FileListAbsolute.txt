@@ -1,0 +1,7 @@
+C:\Users\nitin\Documents\Pack C# Trainings\Video 4\OOPDemo\OOPDemo\bin\Debug\OOPDemo.exe.config
+C:\Users\nitin\Documents\Pack C# Trainings\Video 4\OOPDemo\OOPDemo\bin\Debug\OOPDemo.exe
+C:\Users\nitin\Documents\Pack C# Trainings\Video 4\OOPDemo\OOPDemo\bin\Debug\OOPDemo.pdb
+C:\Users\nitin\Documents\Pack C# Trainings\Video 4\OOPDemo\OOPDemo\obj\Debug\OOPDemo.csprojAssemblyReference.cache
+C:\Users\nitin\Documents\Pack C# Trainings\Video 4\OOPDemo\OOPDemo\obj\Debug\OOPDemo.csproj.CoreCompileInputs.cache
+C:\Users\nitin\Documents\Pack C# Trainings\Video 4\OOPDemo\OOPDemo\obj\Debug\OOPDemo.exe
+C:\Users\nitin\Documents\Pack C# Trainings\Video 4\OOPDemo\OOPDemo\obj\Debug\OOPDemo.pdb
