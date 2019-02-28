@@ -1,0 +1,6 @@
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video6\IssueTrackerSolution\IssueTrackerInfrastructure\bin\Debug\IssueTrackerInfrastructure.dll
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video6\IssueTrackerSolution\IssueTrackerInfrastructure\bin\Debug\IssueTrackerInfrastructure.pdb
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video6\IssueTrackerSolution\IssueTrackerInfrastructure\obj\Debug\IssueTrackerInfrastructure.csprojAssemblyReference.cache
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video6\IssueTrackerSolution\IssueTrackerInfrastructure\obj\Debug\IssueTrackerInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video6\IssueTrackerSolution\IssueTrackerInfrastructure\obj\Debug\IssueTrackerInfrastructure.dll
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video6\IssueTrackerSolution\IssueTrackerInfrastructure\obj\Debug\IssueTrackerInfrastructure.pdb

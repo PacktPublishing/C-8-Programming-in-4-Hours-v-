@@ -1,0 +1,9 @@
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video6\IssueTrackerSolution\IssuesBusinessLogic\bin\Debug\IssuesBusinessLogic.dll
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video6\IssueTrackerSolution\IssuesBusinessLogic\bin\Debug\IssuesBusinessLogic.pdb
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video6\IssueTrackerSolution\IssuesBusinessLogic\obj\Debug\IssuesBusinessLogic.csprojAssemblyReference.cache
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video6\IssueTrackerSolution\IssuesBusinessLogic\obj\Debug\IssuesBusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video6\IssueTrackerSolution\IssuesBusinessLogic\obj\Debug\IssuesBusinessLogic.dll
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video6\IssueTrackerSolution\IssuesBusinessLogic\obj\Debug\IssuesBusinessLogic.pdb
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video6\IssueTrackerSolution\IssuesBusinessLogic\bin\Debug\IssueTrackerInfrastructure.dll
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video6\IssueTrackerSolution\IssuesBusinessLogic\bin\Debug\IssueTrackerInfrastructure.pdb
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video6\IssueTrackerSolution\IssuesBusinessLogic\obj\Debug\IssuesBusinessLogic.csproj.CopyComplete

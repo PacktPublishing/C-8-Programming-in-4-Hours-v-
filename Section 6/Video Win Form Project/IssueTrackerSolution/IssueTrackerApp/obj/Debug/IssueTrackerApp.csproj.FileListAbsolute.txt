@@ -1,0 +1,15 @@
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video6\IssueTrackerSolution\IssueTrackerApp\bin\Debug\IssueTrackerApp.exe.config
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video6\IssueTrackerSolution\IssueTrackerApp\bin\Debug\IssueTrackerApp.exe
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video6\IssueTrackerSolution\IssueTrackerApp\bin\Debug\IssueTrackerApp.pdb
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video6\IssueTrackerSolution\IssueTrackerApp\obj\Debug\IssueTrackerApp.frmIssueTracker.resources
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video6\IssueTrackerSolution\IssueTrackerApp\obj\Debug\IssueTrackerApp.Properties.Resources.resources
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video6\IssueTrackerSolution\IssueTrackerApp\obj\Debug\IssueTrackerApp.csproj.GenerateResource.cache
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video6\IssueTrackerSolution\IssueTrackerApp\obj\Debug\IssueTrackerApp.csproj.CoreCompileInputs.cache
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video6\IssueTrackerSolution\IssueTrackerApp\obj\Debug\IssueTrackerApp.exe
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video6\IssueTrackerSolution\IssueTrackerApp\obj\Debug\IssueTrackerApp.pdb
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video6\IssueTrackerSolution\IssueTrackerApp\obj\Debug\IssueTrackerApp.csprojAssemblyReference.cache
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video6\IssueTrackerSolution\IssueTrackerApp\bin\Debug\IssuesBusinessLogic.dll
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video6\IssueTrackerSolution\IssueTrackerApp\bin\Debug\IssuesBusinessLogic.pdb
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video6\IssueTrackerSolution\IssueTrackerApp\obj\Debug\IssueTrackerApp.csproj.CopyComplete
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video6\IssueTrackerSolution\IssueTrackerApp\bin\Debug\IssueTrackerInfrastructure.dll
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video6\IssueTrackerSolution\IssueTrackerApp\bin\Debug\IssueTrackerInfrastructure.pdb
