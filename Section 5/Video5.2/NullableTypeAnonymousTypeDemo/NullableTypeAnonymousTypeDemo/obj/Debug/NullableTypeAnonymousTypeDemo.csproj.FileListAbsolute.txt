@@ -1,0 +1,7 @@
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video5.2\NullableTypeAnonymousTypeDemo\NullableTypeAnonymousTypeDemo\obj\Debug\NullableTypeAnonymousTypeDemo.csprojAssemblyReference.cache
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video5.2\NullableTypeAnonymousTypeDemo\NullableTypeAnonymousTypeDemo\obj\Debug\NullableTypeAnonymousTypeDemo.csproj.CoreCompileInputs.cache
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video5.2\NullableTypeAnonymousTypeDemo\NullableTypeAnonymousTypeDemo\bin\Debug\NullableTypeAnonymousTypeDemo.exe.config
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video5.2\NullableTypeAnonymousTypeDemo\NullableTypeAnonymousTypeDemo\bin\Debug\NullableTypeAnonymousTypeDemo.exe
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video5.2\NullableTypeAnonymousTypeDemo\NullableTypeAnonymousTypeDemo\bin\Debug\NullableTypeAnonymousTypeDemo.pdb
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video5.2\NullableTypeAnonymousTypeDemo\NullableTypeAnonymousTypeDemo\obj\Debug\NullableTypeAnonymousTypeDemo.exe
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video5.2\NullableTypeAnonymousTypeDemo\NullableTypeAnonymousTypeDemo\obj\Debug\NullableTypeAnonymousTypeDemo.pdb

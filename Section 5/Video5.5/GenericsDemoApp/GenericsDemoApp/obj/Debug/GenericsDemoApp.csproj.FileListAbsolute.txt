@@ -1,0 +1,7 @@
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video5.5\GenericsDemoApp\GenericsDemoApp\bin\Debug\GenericsDemoApp.exe.config
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video5.5\GenericsDemoApp\GenericsDemoApp\bin\Debug\GenericsDemoApp.exe
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video5.5\GenericsDemoApp\GenericsDemoApp\bin\Debug\GenericsDemoApp.pdb
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video5.5\GenericsDemoApp\GenericsDemoApp\obj\Debug\GenericsDemoApp.csprojAssemblyReference.cache
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video5.5\GenericsDemoApp\GenericsDemoApp\obj\Debug\GenericsDemoApp.csproj.CoreCompileInputs.cache
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video5.5\GenericsDemoApp\GenericsDemoApp\obj\Debug\GenericsDemoApp.exe
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video5.5\GenericsDemoApp\GenericsDemoApp\obj\Debug\GenericsDemoApp.pdb

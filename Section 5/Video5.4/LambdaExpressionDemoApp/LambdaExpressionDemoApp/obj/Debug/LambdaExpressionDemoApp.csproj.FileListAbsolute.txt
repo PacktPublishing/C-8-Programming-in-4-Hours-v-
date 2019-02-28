@@ -1,0 +1,7 @@
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video5.4\LambdaExpressionDemoApp\LambdaExpressionDemoApp\bin\Debug\LambdaExpressionDemoApp.exe.config
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video5.4\LambdaExpressionDemoApp\LambdaExpressionDemoApp\bin\Debug\LambdaExpressionDemoApp.exe
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video5.4\LambdaExpressionDemoApp\LambdaExpressionDemoApp\bin\Debug\LambdaExpressionDemoApp.pdb
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video5.4\LambdaExpressionDemoApp\LambdaExpressionDemoApp\obj\Debug\LambdaExpressionDemoApp.csprojAssemblyReference.cache
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video5.4\LambdaExpressionDemoApp\LambdaExpressionDemoApp\obj\Debug\LambdaExpressionDemoApp.csproj.CoreCompileInputs.cache
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video5.4\LambdaExpressionDemoApp\LambdaExpressionDemoApp\obj\Debug\LambdaExpressionDemoApp.exe
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video5.4\LambdaExpressionDemoApp\LambdaExpressionDemoApp\obj\Debug\LambdaExpressionDemoApp.pdb

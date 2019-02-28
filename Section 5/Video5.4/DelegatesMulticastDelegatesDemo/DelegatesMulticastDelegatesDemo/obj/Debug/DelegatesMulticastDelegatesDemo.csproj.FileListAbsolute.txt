@@ -1,0 +1,7 @@
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video5.4\DelegatesMulticastDelegatesDemo\DelegatesMulticastDelegatesDemo\bin\Debug\DelegatesMulticastDelegatesDemo.exe.config
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video5.4\DelegatesMulticastDelegatesDemo\DelegatesMulticastDelegatesDemo\bin\Debug\DelegatesMulticastDelegatesDemo.exe
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video5.4\DelegatesMulticastDelegatesDemo\DelegatesMulticastDelegatesDemo\bin\Debug\DelegatesMulticastDelegatesDemo.pdb
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video5.4\DelegatesMulticastDelegatesDemo\DelegatesMulticastDelegatesDemo\obj\Debug\DelegatesMulticastDelegatesDemo.csprojAssemblyReference.cache
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video5.4\DelegatesMulticastDelegatesDemo\DelegatesMulticastDelegatesDemo\obj\Debug\DelegatesMulticastDelegatesDemo.csproj.CoreCompileInputs.cache
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video5.4\DelegatesMulticastDelegatesDemo\DelegatesMulticastDelegatesDemo\obj\Debug\DelegatesMulticastDelegatesDemo.exe
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video5.4\DelegatesMulticastDelegatesDemo\DelegatesMulticastDelegatesDemo\obj\Debug\DelegatesMulticastDelegatesDemo.pdb

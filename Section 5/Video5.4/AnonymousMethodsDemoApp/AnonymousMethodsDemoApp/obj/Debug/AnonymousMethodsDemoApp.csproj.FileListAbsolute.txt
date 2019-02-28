@@ -1,0 +1,7 @@
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video5.4\AnonymousMethodsDemoApp\AnonymousMethodsDemoApp\bin\Debug\AnonymousMethodsDemoApp.exe.config
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video5.4\AnonymousMethodsDemoApp\AnonymousMethodsDemoApp\bin\Debug\AnonymousMethodsDemoApp.exe
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video5.4\AnonymousMethodsDemoApp\AnonymousMethodsDemoApp\bin\Debug\AnonymousMethodsDemoApp.pdb
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video5.4\AnonymousMethodsDemoApp\AnonymousMethodsDemoApp\obj\Debug\AnonymousMethodsDemoApp.csprojAssemblyReference.cache
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video5.4\AnonymousMethodsDemoApp\AnonymousMethodsDemoApp\obj\Debug\AnonymousMethodsDemoApp.csproj.CoreCompileInputs.cache
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video5.4\AnonymousMethodsDemoApp\AnonymousMethodsDemoApp\obj\Debug\AnonymousMethodsDemoApp.exe
+C:\Users\nitin\Documents\Pack C# Trainings\Section 5 Rerecord\Video5.4\AnonymousMethodsDemoApp\AnonymousMethodsDemoApp\obj\Debug\AnonymousMethodsDemoApp.pdb
