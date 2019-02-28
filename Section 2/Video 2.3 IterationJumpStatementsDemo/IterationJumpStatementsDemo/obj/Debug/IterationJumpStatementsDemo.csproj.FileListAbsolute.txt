@@ -1,0 +1,7 @@
+C:\Users\nitin\Documents\Pack C# Trainings\Section 2 Rerecord\IterationJumpStatementsDemo\IterationJumpStatementsDemo\bin\Debug\IterationJumpStatementsDemo.exe.config
+C:\Users\nitin\Documents\Pack C# Trainings\Section 2 Rerecord\IterationJumpStatementsDemo\IterationJumpStatementsDemo\bin\Debug\IterationJumpStatementsDemo.exe
+C:\Users\nitin\Documents\Pack C# Trainings\Section 2 Rerecord\IterationJumpStatementsDemo\IterationJumpStatementsDemo\bin\Debug\IterationJumpStatementsDemo.pdb
+C:\Users\nitin\Documents\Pack C# Trainings\Section 2 Rerecord\IterationJumpStatementsDemo\IterationJumpStatementsDemo\obj\Debug\IterationJumpStatementsDemo.csprojAssemblyReference.cache
+C:\Users\nitin\Documents\Pack C# Trainings\Section 2 Rerecord\IterationJumpStatementsDemo\IterationJumpStatementsDemo\obj\Debug\IterationJumpStatementsDemo.csproj.CoreCompileInputs.cache
+C:\Users\nitin\Documents\Pack C# Trainings\Section 2 Rerecord\IterationJumpStatementsDemo\IterationJumpStatementsDemo\obj\Debug\IterationJumpStatementsDemo.exe
+C:\Users\nitin\Documents\Pack C# Trainings\Section 2 Rerecord\IterationJumpStatementsDemo\IterationJumpStatementsDemo\obj\Debug\IterationJumpStatementsDemo.pdb

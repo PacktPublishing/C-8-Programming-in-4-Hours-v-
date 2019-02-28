@@ -1,0 +1,7 @@
+C:\Users\nitin\Documents\Pack C# Trainings\Section 2 Rerecord\SelectionStatements\SelectionStatements\bin\Debug\SelectionStatements.exe.config
+C:\Users\nitin\Documents\Pack C# Trainings\Section 2 Rerecord\SelectionStatements\SelectionStatements\bin\Debug\SelectionStatements.exe
+C:\Users\nitin\Documents\Pack C# Trainings\Section 2 Rerecord\SelectionStatements\SelectionStatements\bin\Debug\SelectionStatements.pdb
+C:\Users\nitin\Documents\Pack C# Trainings\Section 2 Rerecord\SelectionStatements\SelectionStatements\obj\Debug\SelectionStatements.csprojAssemblyReference.cache
+C:\Users\nitin\Documents\Pack C# Trainings\Section 2 Rerecord\SelectionStatements\SelectionStatements\obj\Debug\SelectionStatements.csproj.CoreCompileInputs.cache
+C:\Users\nitin\Documents\Pack C# Trainings\Section 2 Rerecord\SelectionStatements\SelectionStatements\obj\Debug\SelectionStatements.exe
+C:\Users\nitin\Documents\Pack C# Trainings\Section 2 Rerecord\SelectionStatements\SelectionStatements\obj\Debug\SelectionStatements.pdb

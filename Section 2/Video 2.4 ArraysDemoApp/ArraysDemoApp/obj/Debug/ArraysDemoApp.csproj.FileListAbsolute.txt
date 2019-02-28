@@ -1,0 +1,7 @@
+C:\Users\nitin\Documents\Pack C# Trainings\Section 2 Rerecord\ArraysDemoApp\ArraysDemoApp\bin\Debug\ArraysDemoApp.exe.config
+C:\Users\nitin\Documents\Pack C# Trainings\Section 2 Rerecord\ArraysDemoApp\ArraysDemoApp\bin\Debug\ArraysDemoApp.exe
+C:\Users\nitin\Documents\Pack C# Trainings\Section 2 Rerecord\ArraysDemoApp\ArraysDemoApp\bin\Debug\ArraysDemoApp.pdb
+C:\Users\nitin\Documents\Pack C# Trainings\Section 2 Rerecord\ArraysDemoApp\ArraysDemoApp\obj\Debug\ArraysDemoApp.csprojAssemblyReference.cache
+C:\Users\nitin\Documents\Pack C# Trainings\Section 2 Rerecord\ArraysDemoApp\ArraysDemoApp\obj\Debug\ArraysDemoApp.csproj.CoreCompileInputs.cache
+C:\Users\nitin\Documents\Pack C# Trainings\Section 2 Rerecord\ArraysDemoApp\ArraysDemoApp\obj\Debug\ArraysDemoApp.exe
+C:\Users\nitin\Documents\Pack C# Trainings\Section 2 Rerecord\ArraysDemoApp\ArraysDemoApp\obj\Debug\ArraysDemoApp.pdb

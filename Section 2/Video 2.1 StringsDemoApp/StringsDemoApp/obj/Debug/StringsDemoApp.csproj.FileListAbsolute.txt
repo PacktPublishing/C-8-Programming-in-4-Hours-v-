@@ -1,0 +1,7 @@
+C:\Users\nitin\Documents\Pack C# Trainings\Section 2 Rerecord\StringsDemoApp\StringsDemoApp\bin\Debug\StringsDemoApp.exe.config
+C:\Users\nitin\Documents\Pack C# Trainings\Section 2 Rerecord\StringsDemoApp\StringsDemoApp\bin\Debug\StringsDemoApp.exe
+C:\Users\nitin\Documents\Pack C# Trainings\Section 2 Rerecord\StringsDemoApp\StringsDemoApp\bin\Debug\StringsDemoApp.pdb
+C:\Users\nitin\Documents\Pack C# Trainings\Section 2 Rerecord\StringsDemoApp\StringsDemoApp\obj\Debug\StringsDemoApp.csprojAssemblyReference.cache
+C:\Users\nitin\Documents\Pack C# Trainings\Section 2 Rerecord\StringsDemoApp\StringsDemoApp\obj\Debug\StringsDemoApp.csproj.CoreCompileInputs.cache
+C:\Users\nitin\Documents\Pack C# Trainings\Section 2 Rerecord\StringsDemoApp\StringsDemoApp\obj\Debug\StringsDemoApp.exe
+C:\Users\nitin\Documents\Pack C# Trainings\Section 2 Rerecord\StringsDemoApp\StringsDemoApp\obj\Debug\StringsDemoApp.pdb
