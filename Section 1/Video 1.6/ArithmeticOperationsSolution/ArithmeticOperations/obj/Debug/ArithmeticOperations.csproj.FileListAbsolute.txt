@@ -1,0 +1,7 @@
+C:\Users\nitin\Documents\Pack C# Trainings\Video 1.6\ArithmeticOperationsSolution\ArithmeticOperations\bin\Debug\ArithmeticOperations.exe.config
+C:\Users\nitin\Documents\Pack C# Trainings\Video 1.6\ArithmeticOperationsSolution\ArithmeticOperations\bin\Debug\ArithmeticOperations.exe
+C:\Users\nitin\Documents\Pack C# Trainings\Video 1.6\ArithmeticOperationsSolution\ArithmeticOperations\bin\Debug\ArithmeticOperations.pdb
+C:\Users\nitin\Documents\Pack C# Trainings\Video 1.6\ArithmeticOperationsSolution\ArithmeticOperations\obj\Debug\ArithmeticOperations.csprojAssemblyReference.cache
+C:\Users\nitin\Documents\Pack C# Trainings\Video 1.6\ArithmeticOperationsSolution\ArithmeticOperations\obj\Debug\ArithmeticOperations.csproj.CoreCompileInputs.cache
+C:\Users\nitin\Documents\Pack C# Trainings\Video 1.6\ArithmeticOperationsSolution\ArithmeticOperations\obj\Debug\ArithmeticOperations.exe
+C:\Users\nitin\Documents\Pack C# Trainings\Video 1.6\ArithmeticOperationsSolution\ArithmeticOperations\obj\Debug\ArithmeticOperations.pdb

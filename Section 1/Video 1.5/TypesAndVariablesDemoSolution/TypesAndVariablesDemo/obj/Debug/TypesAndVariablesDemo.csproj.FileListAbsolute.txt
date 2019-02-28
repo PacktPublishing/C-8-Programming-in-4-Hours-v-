@@ -1,0 +1,7 @@
+C:\Users\nitin\Documents\Pack C# Trainings\Video 1.5\TypesAndVariablesDemoSolution\TypesAndVariablesDemo\bin\Debug\TypesAndVariablesDemo.exe.config
+C:\Users\nitin\Documents\Pack C# Trainings\Video 1.5\TypesAndVariablesDemoSolution\TypesAndVariablesDemo\bin\Debug\TypesAndVariablesDemo.exe
+C:\Users\nitin\Documents\Pack C# Trainings\Video 1.5\TypesAndVariablesDemoSolution\TypesAndVariablesDemo\bin\Debug\TypesAndVariablesDemo.pdb
+C:\Users\nitin\Documents\Pack C# Trainings\Video 1.5\TypesAndVariablesDemoSolution\TypesAndVariablesDemo\obj\Debug\TypesAndVariablesDemo.csprojAssemblyReference.cache
+C:\Users\nitin\Documents\Pack C# Trainings\Video 1.5\TypesAndVariablesDemoSolution\TypesAndVariablesDemo\obj\Debug\TypesAndVariablesDemo.csproj.CoreCompileInputs.cache
+C:\Users\nitin\Documents\Pack C# Trainings\Video 1.5\TypesAndVariablesDemoSolution\TypesAndVariablesDemo\obj\Debug\TypesAndVariablesDemo.exe
+C:\Users\nitin\Documents\Pack C# Trainings\Video 1.5\TypesAndVariablesDemoSolution\TypesAndVariablesDemo\obj\Debug\TypesAndVariablesDemo.pdb
