@@ -21,21 +21,19 @@ By the end of this course, you’ll be ready to implement C# concepts to develop
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-To fully benefit from the coverage included in this course, you will need:
-●	Little prior understanding on what is programming or programming languages.
-●	Familiarity with Git and GitHub for source control
+●	Little prior understanding on what is programming or programming languages<br/>
+●	Familiarity with Git and GitHub for source control<br/>
 
 ### Technical Requirements
 This course has the following software requirements:<br/>
-This course has the following software requirements:
-●	An editor like Visual Studio 2017 or Visual Studio 2019(Preview)
-●	Windows 7 or above operating system.
-This course has been tested on the following system configuration:
-●	OS: Windows 7 or above
-●	Processor: Dual Core 3.0 Ghz
-●	Memory: 4GB
-●	Hard Disk Space: 200MB
-●	Video Card: 256MB Video Memory 
+●	An editor like Visual Studio 2017 or Visual Studio 2019(Preview)<br/>
+●	Windows 7 or above operating system<br/>
+This course has been tested on the following system configuration:<br/>
+●	OS: Windows 7 or above<br/>
+●	Processor: Dual Core 3.0 Ghz<br/>
+●	Memory: 4GB<br/>
+●	Hard Disk Space: 200MB<br/>
+●	Video Card: 256MB Video Memory <br/>
 
 
 ## Related Products
